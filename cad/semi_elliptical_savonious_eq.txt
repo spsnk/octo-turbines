@@ -1,0 +1,10 @@
+﻿"cut_angle"= 38deg'Anglulo de corte
+"elli_mayor_radius"= 190mm'Radio mayor de la elipse
+"elli_minor_radius"= 130mm'Radio menor de la elipse
+"overlap_percent"= 10'Porcentaje de superposicion
+"rotor_diameter"= 500mm'Diametro del rotor
+"blade_quantity"= 2'Cantidad de aspas
+"blade_thickness"= 3.3mm'Espesor de las aspas
+"blade_pattern_angle"= 180deg 'Angulo de repeticion de aspa
+"blade_torsion_angle"= 0deg'Angulo de torsion del aspa
+"aspect_ratio"= 1.17'Relación de aspecto de la helice
