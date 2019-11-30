@@ -15,9 +15,11 @@ $ ./getdata.py SE056 &
 ```bash
 $ touch stop
 ```
+#### Retrieving data
 To retrieve the data you need a `SCP` utilty (Provided on Windows by [PuTTY](https://www.putty.org/)).
 The command to copy all the data files from the Pi to a guest computer is:
 ```bash
 $ scp pi@192.168.50.1:/home/pi/data .
 ```
+
 
