@@ -1,7 +1,7 @@
-﻿"cut_angle"= 38deg'Anglulo de corte
-"elli_mayor_radius"= 190mm'Radio mayor de la elipse
-"elli_minor_radius"= 130mm'Radio menor de la elipse
-"overlap_percent"= 10'Porcentaje de superposicion
+﻿"cut_angle"= 47.5deg'Anglulo de corte
+"elli_mayor_radius"= 198mm'Radio mayor de la elipse
+"elli_minor_radius"= 132mm'Radio menor de la elipse
+"overlap_percent"= 20'Porcentaje de superposicion
 "rotor_diameter"= 500mm'Diametro del rotor
 "blade_quantity"= 2'Cantidad de aspas
 "blade_thickness"= 3.3mm'Espesor de las aspas
